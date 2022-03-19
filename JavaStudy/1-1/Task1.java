@@ -1,4 +1,5 @@
-/**
+package JavaStudy.1-1;
+    /**
  * Task1_1: 課題内容
  *
  * 本課題では、データ型・文字列の使い方を学んでいきましょう。
@@ -18,23 +19,24 @@ public class Task1_1 {
         String hogeString = "テスト";
 
         // ③下記の処理について、何をしているのかコメントを記入してください
-        // [hogeStringと名前の変数を宣言、値「0.2」で初期化]
+        // [doubleクラスのhogeDoubleという名前の変数を宣言、値「0.2」で初期化]
         double hogeDouble = 0.2;
 
         // ④変数 hogeInt を値「100」で上書き
         int hogeInt = 100;
+
         // ⑤変数 hogeString を値「合格」で上書き
-        String hogeString = "合格";
+        String hogeString ="合格";
 
         // ⑥変数 hogeInt の値を表示
         System.out.print(hogeInt);
 
         // ⑦下記の処理について、何をしているのかコメントを記入してください
-        // [変数hogeStringの値を表示]
+        // [変数　hogeStringの値を表示]
         System.out.println(hogeString);
 
         // ⑧変数 hogeDouble の値を表示
-        System.out.print(hogeString);
+        System.out.print(hogeDouble);
 
     }
 }
