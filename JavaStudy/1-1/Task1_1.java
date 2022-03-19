@@ -1,4 +1,3 @@
-package JavaStudy.1-1;
     /**
  * Task1_1: 課題内容
  *
